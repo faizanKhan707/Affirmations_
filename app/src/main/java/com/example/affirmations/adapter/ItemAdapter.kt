@@ -13,7 +13,7 @@ class ItemAdapter(private val contex: Context,private val dataset: List<Affirmat
    val textView: TextView=view.findViewById(R.id.item_title)
 
  }
-
+dsafdfdsvfdsfvdsfvsdfsfsdfdsf
  override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): ItemViewHolder {
 //  TODO("Not yet implemented")
   val adapterLayout=LayoutInflater.from(parent.context).inflate(R.layout.list_item,parent,false)
